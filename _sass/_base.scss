@@ -694,8 +694,8 @@ footer.sticky-bottom {
 
       .preview {
         width: 100%;
-        min-width: 80px;
-        max-width: 200px;
+        min-width: 300px;
+        max-width: 400px;
       }
 
       .abbr {
@@ -813,7 +813,7 @@ footer.sticky-bottom {
       }
 
       .hidden.open {
-        max-height: 100em;
+        max-height: 140em;
         transition-property: 0.15s ease;
         -moz-transition: 0.15s ease;
         -ms-transition: 0.15s ease;
