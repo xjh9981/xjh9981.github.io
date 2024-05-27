@@ -12,7 +12,7 @@
             include figure.liquid
             loading="eager"
             path=entry_path
-            sizes = "200px"
+            sizes = "400px"
             class="preview z-depth-1 rounded"
             zoomable=false
             alt=entry.preview
@@ -300,7 +300,7 @@
     {% if entry.video %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
-        <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
+        <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true  style="width: 640px; height: 480px;" %}</div>
       </div>
     {% endif %}
   </div>
