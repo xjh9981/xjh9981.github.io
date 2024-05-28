@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p>Ph.D. Candidate, </p>
+  <p style="margin-bottom: 5px;">Ph.D. Candidate, </p>
   <p><span class="inline-text"> :blue_book: <a href='https://www.mcl.iis.u-tokyo.ac.jp/en/'>Multimedia Communication Lab</a>, <a href='https://www.u-tokyo.ac.jp/en/'> The University of Tokyo </a> </p>
 
 profile:
@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: > 
-    <p> :e-mail: dxf9981 ατ g.ecc.u-tokyo.ac.jp </p>
+    <p><span class="inline-text">:email: dxf9981 ατ g.ecc.u-tokyo.ac.jp </p>
     <p><span class="inline-text">🌏 4-6-1, Komaba, Meguro-ku, Tokyo</span></p>
   
 
