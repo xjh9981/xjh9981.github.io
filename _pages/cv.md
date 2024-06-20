@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: false
-nav_order: 5
+nav_order: 4
 cv_pdf: Xuefu Dong CV phd.pdf
 description: Updated on Jun. 20th, 2024. #This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
