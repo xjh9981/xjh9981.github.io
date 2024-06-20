@@ -4,3 +4,18 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"MobiCom":
+  url: https://dl.acm.org/conference/mobicom
+
+"CHI":
+  url: https://dl.acm.org/conference/chi
+
+"PerCom":
+  url: https://www.percom.org/
+
+# "UbiComp":
+#   url: https://ubicomp.org
+
+"IMWUT":
+  url: https://dl.acm.org/journal/imwut
