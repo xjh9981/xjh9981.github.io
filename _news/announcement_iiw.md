@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My proposal was selected by the University of Tokyo Fellowship IIW program (International Graduate Program of Innovation for an Intelligent World).
+One proposal was selected by [The University of Tokyo Fellowship IIW program](https://www.iiw.i.u-tokyo.ac.jp/en/) (International Graduate Program of Innovation for an Intelligent World).
