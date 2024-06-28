@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Micro-Mobility Safety
-description: <div style="text-align: center;">[ Advanced Cyclist-Assistance Schemes ] </div>
+description: <h3>'[ Advanced Cyclist-Assistance Schemes ]'</h3>
 img: assets/img/bicycle_cover.jpg
 importance: 2
 category: work
@@ -55,7 +55,7 @@ is an urgent need to address this problem by low-cost and robust safeguard syste
         DOUBLECHECK 
         </span> <div style="flex-grow: 1; height: 1px; background-color: black; margin-left: 10px;"></div>
         </div> </h3>
-        DoubleCheck is a method that utilizes a handlebar-mounted smartphone to detect single-handed cycling and followed distracting secondary tasks. The work was established on the premise that single-handed cycling undermines the stability of handlebar during cycling. Preliminary data shows that For both acceleration and angular speed:
+        DoubleCheck {% cite doublecheck_percom %} is a method that utilizes a handlebar-mounted smartphone to detect single-handed cycling and followed distracting secondary tasks. The work was established on the premise that single-handed cycling undermines the stability of handlebar during cycling. Preliminary data shows that For both acceleration and angular speed:
         
         - The signal has denser power over the frequency band during single-handed cycling.
         
