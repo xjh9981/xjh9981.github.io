@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ReHEarSSE
-description: <h3> Earbud-based Silent Speech Interface </h3>
+description: <h5> Earbud-based Silent Speech Interface </h5>
 img: assets/img/publication_preview/re_canal.jpg
 importance: 1
 category: work

@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Micro-Mobility Safety
-description: <h3>'[ Advanced Cyclist-Assistance Schemes ]'</h3>
+description: <h5>[ Advanced Cyclist-Assistance Schemes ]</h5>
 img: assets/img/bicycle_cover.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
+related_publications: true
 ---
 
 Cycling must be safe, and perceived as such, if micro-mobility trips by all populations are to increase, and the benefits in traffic
