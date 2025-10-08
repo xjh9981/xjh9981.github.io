@@ -39,7 +39,7 @@ independent. The inherent structure uniqueness of each individual’s ear canal 
 subtle ear canal deformations encode both the utterance content
 and speaker identity. 
 
-In this work, we enable reliable SSI by proposing HEar-ID, which
+In this work, we enable reliable SSI by proposing HEar-ID{% cite hearid %}, which
 only leverages a commodity active noise-canceling earbud to emit
 an inaudible OFDM signal and record both ultrasonic reflections
 and whisper audio to enable silent spelling input (e.g. /i: eI Ar/
