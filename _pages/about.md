@@ -16,7 +16,7 @@ profile:
   
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hi there, thank you for stopping by. I am a final year PhD student of the University of Tokyo, Japan, under the supervision of Prof. [Kaoru Sezaki](https://www.mcl.iis.u-tokyo.ac.jp/en/kaoru-sezaki-ph-d/). Before that, I obtained my B.Eng. in Information Engineering from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn/). 
