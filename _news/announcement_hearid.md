@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our work HEar-ID{% cite hearid %} won the Best Poster Award of UbiComp/ISWC 2025! 
+Our work HEar-ID {% cite hearid %} won the Best Poster Award of UbiComp/ISWC 2025! 
 
 <figure style="text-align:center;">
   <img src="/assets/images/hearid_award_group_photo.jpg" alt="Best Poster Award" width="70%">
