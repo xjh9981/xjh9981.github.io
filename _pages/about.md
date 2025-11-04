@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <p style="margin-bottom: 1px;">Ph.D. Candidate </p>
+  <p style="margin-bottom: 1px;">Postdoctoral Research </p>
   <p><span class="inline-text"> :blue_book: <a href='https://www.mcl.iis.u-tokyo.ac.jp/en/'>Multimedia Communication Lab</a>, <a href='https://www.u-tokyo.ac.jp/en/'> The University of Tokyo </a> </p>
 
 profile:
