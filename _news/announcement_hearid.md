@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our work HEar-ID {% cite hearid %} won the Best Poster Award of UbiComp/ISWC 2025! 
+Our work HEar-ID {% cite hearid %} won the [Best Poster Award](https://www.ubicomp.org/ubicomp-iswc-2025/awards/#:~:text=Poster%3A%20Recognizing%20Hidden%2Din%2Dthe,Sezaki%20(The%20University%20of%20Tokyo)) of ACM UbiComp/ISWC 2025! 
 
 <div style="display: flex; gap: 20px; justify-content: center;">
   <figure style="text-align:center; width: 45%;">
